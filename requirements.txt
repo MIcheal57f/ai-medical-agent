@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-text-splitters
+rank-bm25
+jieba
+openai
+python-dotenv
+faiss-cpu
+pypdf

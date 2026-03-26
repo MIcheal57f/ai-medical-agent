@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# logs
+logs/
+
+# FAISS index（你的路径）
+storage/faiss_index/
+
+# env
+.env
+
+# OS
+.DS_Store
